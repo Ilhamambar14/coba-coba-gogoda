@@ -33,3 +33,5 @@ type Presensi struct {
 	Checkin      string             `bson:"checkin,omitempty" json:"checkin,omitempty"`
 	Biodata      Karyawan           `bson:"biodata,omitempty" json:"biodata,omitempty"`
 }
+
+//efesdsfdg
